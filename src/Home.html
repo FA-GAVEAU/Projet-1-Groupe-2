@@ -84,7 +84,62 @@
         </div>
       </div>
     </div>
-  </section>                                       
+  </section>
+                                                 
+  <!-- Part Form Contact PHP -->
+  <section id="Contact">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-md-6" id="form_container">
+          <h2 class=p t-2>Contact Us</h2>
+          <p class=p t-2> Please send your message below. We will get back to you at the earliest! </p>
+          <form role="form" method="post" id="reused_form">
+            <div class="row">
+              <div class="col-sm-12 form-group">
+                <label for="message"> Message:</label>
+                <textarea class="form-control" type="textarea" name="message" id="message" maxlength="6000" rows="7"></textarea>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-sm-6 form-group">
+                <label for="name"> Your Name:</label>
+                <input type="text" class="form-control" id="name" name="name" required>
+              </div>
+              <div class="col-sm-6 form-group">
+                <label for="email"> Email:</label>
+                <input type="email" class="form-control" id="email" name="email" required>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-sm-12 form-group">
+                <button type="submit" class="btn btn-lg btn-default pull-right">Send &rarr;</button>
+              </div>
+            </div>
+          </form>
+          <div id="success_message" style="width:100%; height:100%; display:none; ">
+            <h3>Posted your message successfully!</h3>
+          </div>
+          <div id="error_message" style="width:100%; height:100%; display:none; ">
+            <h3>Error</h3>
+            Sorry there was an error sending your form.
+          </div>
+        </div>
+
+        <!-- Part Guest Book -->
+        <div class="col-md-6">
+          <h2 class=p t-2 pb-4>Guest Book</h2>
+          <p class=p t-2>The form below contains a textarea for comments:</p>
+          <form action="/action_page.php">
+            <div class="form-group">
+              <label for="comment">Comment:</label>
+              <textarea class="form-control" rows="10" id="comment" name="text"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>                                                            
         
   <!-- Footer -->
   <footer class="page-footer font-small blue pt-4">
@@ -146,43 +201,7 @@
             </li>
             <li>
               <a href="#!">Link 3</a>
-            </li>   Sorry there was an error sending your form.
-90
-          </div>
-91
-        </div>
-92
-​
-93
-        <!-- Part Guest Book -->
-94
-        <div class="col-md-6">
-95
-          <h2 class=p t-2 pb-4>Guest Book</h2>
-96
-          <p class=p t-2>The form below contains a textarea for comments:</p>
-97
-          <form action="/action_page.php">
-98
-            <div class="form-group">
-99
-              <label for="comment">Comment:</label>
-100
-              <textarea class="form-control" rows="10" id="comment" name="text"></textarea>
-101
-            </div>
-102
-            <button type="submit" class="btn btn-primary">Submit</button>
-103
-          </form>
-104
-        </div>
-105
-      </div>
-106
-    </div>
-107
-  </section>                     
+            </li>
             <li>
               <a href="#!">Link 4</a>
             </li>

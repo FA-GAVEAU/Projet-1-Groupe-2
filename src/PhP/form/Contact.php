@@ -43,8 +43,6 @@
                     <div class="form-group">
                         <label for="message">Need something to say?</label>
                         <textarea class="form-control" id="message" name="message" rows="7" placeholder="Write a little message...where a little joke example :
-
-
                         « Le manuel disait “Nécessite Windows XP ou mieux”. J’ai donc installé Linux. »" minlength="32"></textarea>
                     </div>
                     <br>
@@ -82,9 +80,9 @@
     <form>
       <label>Guestbook</label>
       <div class="form-group">
-        <input type="text" class="form-control name" rows="1" placeholder="First & last name">
-        <input type="text" class="form-control location" rows="1" placeholder="Location">
-        <textarea type="text" class="form-control message" rows="4" placeholder="Leave a message here"></textarea>
+        <input type="text" class="form-control name" placeholder="First & last name">
+        <input type="text" class="form-control location" placeholder="Location">
+        <textarea class="form-control message" rows="4" placeholder="Leave a message here"></textarea>
       </div>
     </form>
     <div class="button-group pull-right">

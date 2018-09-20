@@ -20,7 +20,7 @@
 
 <!-- Part Our students -->
 <section id="students">
-    <h1 class="text-center pt-5 pb-4">Our Students</h1>
+    <h1 class="text-center pb-5 pt-5">Our Students</h1>
     <div class="container">
         <div class="row">
             <div class="col-md-6">
@@ -49,21 +49,21 @@
     </div>
     <div class="container">
         <div class="card-deck">
-            <div class="card">
+            <div class="card card card text-black bg-light card border-secondary">
                 <img class="card-img-top" src="https://nsa39.casimages.com/img/2018/09/19/180919103530686572.jpg" alt="Olivier">
                 <div class="card-body">
                     <h5 class="card-title text-center pb-3">Olivier Trentesaux : Campus Manager WCS Lille</h5>
                     <p class="card-text text-center">Olivier welcomes you with open arms to the Wild Code School of Lille, which will transform you into a real little Gremlins of web development.</p>
                 </div>
             </div>
-            <div class="card">
+            <div class="card card card text-black bg-light card border-secondary">
                 <img class="card-img-top" src="https://nsa39.casimages.com/img/2018/09/19/180919103415307256.jpg" alt="Loïc">
                 <div class="card-body">
                     <h5 class="card-title text-center pb-3">Loïc Brassart : Trainer Javacript WCS Lille</h5>
                     <p class="card-text text-center">Loîc trains you in the JS language with joy and good spirit. As long as you avoid saying "var" in his presence, he won't eat you!</p>
                 </div>
             </div>
-            <div class="card">
+            <div class="card card card text-black bg-light card border-secondary">
                 <img class="card-img-top" src="https://nsa39.casimages.com/img/2018/09/19/180919103606846345.jpg" alt="Gaëtan">
                 <div class="card-body">
                     <h5 class="card-title text-center pb-3">Gaëtan Rolé-Dubruille : Trainer PHP WCS Lille</h5>
@@ -94,7 +94,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="card-deck">
-                        <div class="card">
+                        <div class="card card text-black bg-light card border-secondary">
                             <img class="card-img-top" src="https://nsa39.casimages.com/img/2018/09/19/180919111501799547.jpg" alt="Map_Euratech">
                             <div class="card-body">
                                 <h5 class="card-title text-center pb-3">Area Euratech</h5>
@@ -104,19 +104,19 @@
                 </div>
                 <div class="col-md-8">
                     <div class="card-deck pt-5">
-                        <div class="card">
+                        <div class="card card text-black bg-light card border-secondary">
                             <img class="the_bars card-img-top" src="https://nsa39.casimages.com/img/2018/09/20/180920015934454042.jpg" alt="the_bars">
                             <div class="card-body">
                                 <h5 class="card-title text-center pb-3">1) Wilders drinking together</h5>
                             </div>
                         </div>
-                        <div class="card">
+                        <div class="card card text-black bg-light card border-secondary">
                             <img class="card-img-top" src="https://nsa39.casimages.com/img/2018/09/20/180920020103688034.jpg" alt="Wild">
                             <div class="card-body">
                                 <h5 class="card-title text-center pb-3">2) Wilder at Wild Code School</h5>
                             </div>
                         </div>
-                        <div class="card">
+                        <div class="card card text-black bg-light card border-secondary">
                             <img class="card-img-top" src="https://nsa39.casimages.com/img/2018/09/20/180920020220401609.png" alt="Future">
                             <div class="card-body">
                                 <h5 class="card-title text-center pb-3">3) Wilder willing to work in IBM</h5>

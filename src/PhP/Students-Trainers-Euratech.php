@@ -57,14 +57,14 @@
                 <img class="card-img-top" src="https://nsa39.casimages.com/img/2018/09/19/180919103415307256.jpg" alt="Loïc">
                 <div class="card-body">
                     <h5 class="card-title text-center pb-3">Loïc Brassart : Trainer Javacript WCS Lille</h5>
-                    <p class="card-text text-center">Loîc trains you in the JS language with joy and good spirit. As long as you avoid saying "var" in his presence, he won't eat you!</p>
+                    <p class="card-text text-center">Loîc trains you in the JS language with joy and good spirit. As long as you avoid using "var" in his presence, he won't eat you!</p>
                 </div>
             </div>
             <div class="card card card text-black bg-light card border-secondary">
                 <img class="card-img-top" src="https://nsa39.casimages.com/img/2018/09/19/180919103606846345.jpg" alt="Gaëtan">
                 <div class="card-body">
                     <h5 class="card-title text-center pb-3">Gaëtan Rolé-Dubruille : Trainer PHP WCS Lille</h5>
-                    <p class="card-text text-center">Gaêtan takes you to the finger and the stick to push you to the perfection of the PHP language. Be careful, however, it is fond of PC left unattended.</p>
+                    <p class="card-text text-center">Gaêtan leads you to the wand to push you to the perfection of the PHP language. But be careful, he looooves unlocked computers.</p>
                 </div>
             </div>
         </div>

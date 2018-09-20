@@ -33,21 +33,21 @@
         </ol>
         <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
-                <img class="d-block w-100" src="https://www.ncl.ac.uk/media/wwwnclacuk/mccordcentre/images/masthead-quayside.jpg" alt="First slide">
+                <img class="d-block w-100" src="https://image.ibb.co/eydGBe/Clipboard_19_septembre_2018_14_49.png" alt="First slide">
                 <div class="carousel-caption">
-                    <h3>SA M4RCHE B1 Lalalalalalalalalaaaaaaaaaaaaaaaaaaaaaaaaaaa</h3>
+                    <h3>TEST</h3>
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="d-block w-100" src="https://chat.wildcodeschool.fr/file-upload/fCYkXeykE5nMyddit/Clipboard%20-%2019%20septembre%202018%2014:49" alt="Second slide">
+                <img class="d-block w-100" src="https://image.ibb.co/eydGBe/Clipboard_19_septembre_2018_14_49.png" alt="Second slide">
                 <div class="carousel-caption">
-                    <h3>SA M4RCHE B1</h3>
+                    <h3>TEST</h3>
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="d-block w-100" src="https://via.placeholder.com/2000x1000" alt="Third slide">
+                <img class="d-block w-100" src="https://image.ibb.co/eydGBe/Clipboard_19_septembre_2018_14_49.png" alt="Third slide">
                 <div class="carousel-caption">
-                    <h3>SA M4RCHE B1</h3>
+                    <h3>TEST</h3>
                 </div>
             </div>
         </div>

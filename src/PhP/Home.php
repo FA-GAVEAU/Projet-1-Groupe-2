@@ -34,21 +34,12 @@
         <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
                 <img class="d-block w-100" src="https://image.ibb.co/eydGBe/Clipboard_19_septembre_2018_14_49.png" alt="First slide">
-                <div class="carousel-caption">
-                    <h3>TEST</h3>
-                </div>
             </div>
             <div class="carousel-item">
                 <img class="d-block w-100" src="http://codeblot.com/wp-content/uploads/2017/01/Programming-Quotes-12.jpg" alt="Second slide">
-                <div class="carousel-caption">
-                    <h3>TEST</h3>
-                </div>
             </div>
             <div class="carousel-item">
                 <img class="d-block w-100" src="http://codeblot.com/wp-content/uploads/2017/01/Programming-Quotes-13.jpg" alt="Third slide">
-                <div class="carousel-caption">
-                    <h3>TEST</h3>
-                </div>
             </div>
         </div>
         <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">

@@ -29,19 +29,19 @@
             <div class="col">
                 <form method="POST" action="email.php" id="contact_form">
                     <div class="form-group">
-                        <label for="name">Your name or that of your girlfriend</label>
+                        <label for="name">Your name or your Girlfriend's</label>
                         <input type="text" id="name" class="form-control" name="name" placeholder="Enter your name here" minlength="2" required>
                     </div>
                     <div class="form-group">
-                        <label for="email">Your email to send you advertisements by the thousands</label>
+                        <label for="email">Your email to send you a thousand advertisements</label>
                         <input type="email" id="email" name="email" class="form-control" placeholder="Enter a valid email here" required>
                     </div>
                     <div class="form-group">
-                        <label for="subject">Your subject and not a verb</label>
+                        <label for="subject">Your subject (not a verb, please)</label>
                         <input type="text" id="subject" name="subject" class="form-control" placeholder="Enter your subject here" minlength="8" required>
                     </div>
                     <div class="form-group">
-                        <label for="message">Your Message</label>
+                        <label for="message">Need something to say?</label>
                         <textarea class="form-control" id="message" name="message" rows="7" placeholder="Write a little message...where a little joke example :
 
 

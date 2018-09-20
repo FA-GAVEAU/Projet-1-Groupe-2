@@ -1,6 +1,6 @@
 <nav id="Navbar">
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
-        <a class="navbar-brand" href="#">Wild Code School</a>
+        <a class="navbar-brand" href="Home.php">Wild Code School</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -16,12 +16,11 @@
                     <a class="nav-link" href="Students-Trainers-Euratech.php">Euratech</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#Pleasures.php">Pleasures Of Wild</a>
+                    <a class="nav-link" href="Pleasures.php">Pleasures Of Wild</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="Home.php">Contact Us</a>
+                    <a class="nav-link" href="Contact.php">Contact Us</a>
                 </li>
             </ul>
         </div>
     </nav>
-</nav>

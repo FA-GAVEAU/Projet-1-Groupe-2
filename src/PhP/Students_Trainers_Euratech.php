@@ -107,19 +107,19 @@
                         <div class="card">
                             <img class="the_bars card-img-top" src="https://nsa39.casimages.com/img/2018/09/20/180920015934454042.jpg" alt="the_bars">
                             <div class="card-body">
-                                <h5 class="card-title text-center pb-3">1) Wilder in the bar</h5>
+                                <h5 class="card-title text-center pb-3">1) Wilders drinking together</h5>
                             </div>
                         </div>
                         <div class="card">
                             <img class="card-img-top" src="https://nsa39.casimages.com/img/2018/09/20/180920020103688034.jpg" alt="Wild">
                             <div class="card-body">
-                                <h5 class="card-title text-center pb-3">2) Wilder in the Wild Code School</h5>
+                                <h5 class="card-title text-center pb-3">2) Wilder at Wild Code School</h5>
                             </div>
                         </div>
                         <div class="card">
                             <img class="card-img-top" src="https://nsa39.casimages.com/img/2018/09/20/180920020220401609.png" alt="Future">
                             <div class="card-body">
-                                <h5 class="card-title text-center pb-3">3) Wilder who will work in IBM</h5>
+                                <h5 class="card-title text-center pb-3">3) Wilder willing to work in IBM</h5>
                             </div>
                         </div>
                     </div>

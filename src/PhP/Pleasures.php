@@ -24,12 +24,12 @@
         <h1 class="text-center pt-5 pb-4">Pleasures of Wild</h1>
         <div class="row">
             <div class="col-lg-6">
-                <iframe src="https://giphy.com/embed/v8z7FtTknX5iU" width="480" height="338" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+                <iframe src="https://giphy.com/embed/v8z7FtTknX5iU" style="width:100%" width="480" height="338" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
                 <p class="text-center pt-1">When you can't resolve a bug coming from nowhere.</p>
             </div>
             <div class="col-lg-6">
                 <div class="embed-responsive embed-responsive-16by9">
-                    <iframe src="https://giphy.com/embed/r1Jfzs1LcKwAo" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+                    <iframe src="https://giphy.com/embed/r1Jfzs1LcKwAo" style="width:100%" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
                     <p class="text-center pt-5">Trying to understand like : </p>
                 </div>
             </div>

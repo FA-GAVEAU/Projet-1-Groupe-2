@@ -29,7 +29,7 @@
             </div>
             <div class="col-md-6">
                 <div class="embed-responsive embed-responsive-16by9">
-                    <iframe src="https://player.vimeo.com/video/290676480" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                    <iframe src="https://player.vimeo.com/video/290676480" width="640" height="360" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
@@ -42,10 +42,7 @@
 <section id="trainers">
     <div class="container">
         <h1 class="text-center pt-2 pb-4">Our Trainers</h1>
-        <p class="text-justify pb-4">At the Wild Code School in Lille, we develop without shoes but not with our feet!
-            A shock team will kindly (or not) load you, a simple noob of computer science or already a CSS expert (Counter Strike Source)
-            a real web developer in 5 months !!! And that (almost) without magical power.
-            The Lille team consists of a Campus Manager: Olivier and two trainers who will specialize you in a language. Join Gaëtan in the PHP League or Loïc in the JS team.</p>
+        <p class="text-justify pb-4">At the Wild Code School in Lille, we develop without shoes but not with our feet! A shock team will kindly (or not) load you, a simple noob of computer science or already a CSS expert (Counter Strike Source)a real web developer in 5 months !!! And that (almost) without magical power.The Lille team consists of a Campus Manager: Olivier and two trainers who will specialize you in a language. Join Gaëtan in the PHP League or Loïc in the JS team.</p>
     </div>
     <div class="container">
         <div class="card-deck">
@@ -89,7 +86,7 @@
 <!-- Part Euratech -->
 <section id="euratech">
     <div class="container">
-        <h1 class="title_euratech text-center pt-2 pb-4"">Euratech</h1>
+        <h1 class="title_euratech text-center pt-2 pb-4">Euratech</h1>
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
@@ -142,3 +139,4 @@
 </body>
 
 </html>
+

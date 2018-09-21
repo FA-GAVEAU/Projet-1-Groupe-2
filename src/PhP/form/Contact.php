@@ -23,7 +23,7 @@
 <section id="contact">
     <div class="container jumbotron">
         <div class="row">
-            <h2>Contact Us or Not</h2>
+        <h2 class="pb-4 pt-5">Contact Us or Not</h2>
         </div><!-- .container-fluid -->
         <div class="row">
             <div class="col">
@@ -78,7 +78,7 @@
     
   <div class="container">
     <form>
-      <label>Guestbook</label>
+      <h2 class="pb-4">Guestbook</h2>
       <div class="form-group">
         <input type="text" class="form-control name" placeholder="First & last name">
         <input type="text" class="form-control location" placeholder="Location">

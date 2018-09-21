@@ -42,7 +42,7 @@
 <section id="trainers">
     <div class="container">
         <h1 class="text-center pt-2 pb-4">Our Trainers</h1>
-        <p class="text-justify pb-4">At the Wild Code School in Lille, we code without shoes, but not with our feet! Whether you're a real noob in computer science or already a CSS (Counter Strike Source) expert, our unstoppable team will make a real developer out of you in just 5 months. And that (almost) without magical powers. The Lille team consists of a Campus Manager, Olivier, and two trainers who will reach you how to use your programming language of choice like a pro. Join Gaëtan in the PHP League, or Loïc in the JS team.</p>
+        <p class="text-justify pb-4">At the Wild Code School in Lille, we code without shoes, but not with our feet! Whether you're a real noob in computer science or already a CSS (Counter Strike Source) expert, our unstoppable team will make a real developer out of you in just 5 months. And that (almost) without magical powers. The Lille team consists of a Campus Manager, Olivier, and two trainers who will teach you how to use your programming language of choice like a pro. Join Gaëtan in the PHP League, or Loïc in the JS team.</p>
     </div>
     <div class="container">
         <div class="card-deck">

@@ -70,4 +70,4 @@ if (strlen($_SESSION["error"]) <= 0) {
 }
 
 // Back on homepage
-header("location: index.php");
+header("location: Contact.php");

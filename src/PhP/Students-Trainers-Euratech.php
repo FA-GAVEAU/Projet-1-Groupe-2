@@ -42,7 +42,7 @@
 <section id="trainers">
     <div class="container">
         <h1 class="text-center pt-2 pb-4">Our Trainers</h1>
-        <p class="text-justify pb-4">At the Wild Code School in Lille, we code without shoes (rest assured,we don't use our feet)! A killer team will kindly (or not) lead you, even being a noob nor a CSS expert (Counter Strike Source). Become a real web developer in 5 months !!! And that, (almost) without magical power.The Lille's team consists of a Campus Manager: Olivier and two trainers who will specialize you in a language. Join Gaëtan if you'd rather be a member of PHP's League; join Loïc if you wish to be into JS's guild.</p>
+        <p class="text-justify pb-4">At the Wild Code School in Lille, we code without shoes, but not with our feet! Whether you're a real noob in computer science or already a CSS (Counter Strike Source) expert, our unstoppable team will make a real developer out of you in just 5 months. And that (almost) without magical powers. The Lille team consists of a Campus Manager, Olivier, and two trainers who will reach you how to use your programming language of choice like a pro. Join Gaëtan in the PHP League, or Loïc in the JS team.</p>
     </div>
     <div class="container">
         <div class="card-deck">
@@ -57,7 +57,7 @@
                 <img class="card-img-top" src="https://nsa39.casimages.com/img/2018/09/19/180919103415307256.jpg" alt="Loïc">
                 <div class="card-body">
                     <h5 class="card-title text-center pb-3">Loïc Brassart : Trainer Javacript WCS Lille</h5>
-                    <p class="card-text text-center">Loîc trains you in JS language with joy and good spirit. As long as you avoid using "var" in his presence, he won't eat you!</p>
+                    <p class="card-text text-center">Loic is going to teach you the JS language with great enthusiasm, and a cheerful spirit. As long as you refrain from using "var" in his presence, he won't eat you!</p>
                 </div>
             </div>
             <div class="card card card text-black bg-light card border-secondary">

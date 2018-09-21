@@ -23,7 +23,7 @@
 <section id="contact">
     <div class="container jumbotron">
         <div class="row">
-        <h2 class="pb-4 pt-5">Contact Us or Not</h2>
+        <h2 class="pb-4 pt-3">Contact Us or Not</h2>
         </div><!-- .container-fluid -->
         <div class="row">
             <div class="col">

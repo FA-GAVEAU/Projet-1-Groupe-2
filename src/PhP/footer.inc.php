@@ -19,6 +19,6 @@
                 <a class="nav-link disabled" href="http://ekladata.com/4pRKJKISZJAJKDM_1-J5iJh8sEA@550x412.jpg">Founder</a>
             </li>
         </ul>
-        <img src="41307141_298501020929136_4412821525019754496_n.jpg" height="10%" width="10%" alt="logo">
+        <img src="https://nsa39.casimages.com/img/2018/09/21/180921093531204930.jpg" height="10%" width="10%" alt="logo">
 </nav>
 </footer>

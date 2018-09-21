@@ -2,9 +2,6 @@
 <footer>
 <nav class="navbar navbar-expand-lg navbar-light bg-light justify-content-center">
     <a class="navbar-brand" href="https://www.lagendarmerierecrute.fr/">Join Us</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
         <ul class="navbar-nav">
             <li class="nav-item active">
                 <a class="nav-link" href="http://usr3-nein.ch/wp-content/uploads/2016/11/non-1.png">Are You ready ? <span class="sr-only">(current)</span></a>

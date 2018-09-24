@@ -42,7 +42,8 @@
                     </div>
                     <div class="form-group">
                         <label for="message">Need something to say?</label>
-                        <textarea class="form-control" id="message" name="message" rows="7" placeholder="Write a little message...where a little joke example :
+                        <textarea class="form-control" id="message" name="message" rows="7" placeholder="Write a little message...Or write a little joke :
+                        
                         « Le manuel disait “Nécessite Windows XP ou mieux”. J’ai donc installé Linux. »" minlength="32"></textarea>
                     </div>
                     <br>

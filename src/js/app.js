@@ -25,4 +25,4 @@ var main = function() {
       $('.btn').addClass('disabled');
     };
 
-    $(document).ready(main);
+$(document).ready(main);
